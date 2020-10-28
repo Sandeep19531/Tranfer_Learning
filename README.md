@@ -21,7 +21,7 @@ ________________________________________________________________________________
 #### The model was re-trained on google colab's gpu and is giving an accuracy of > 80% in just 5 epochs. Given this data set also consisits of landscapes and garbage images , it is a massive improvement, further training couldn't be done due to lack of better hardware.
 _________________________________________________________________________________________________________________
 ## About the dataset:
-#### It is a subset of 102flower data set provide by Oxford.
+#### It is a subset of 102flower data set provide by Oxford.It consists of 5 categories of 5 categories of flowers: Daisy, Dandelion, roses, tulips and Suflower.  
 _________________________________________________________________________________________________________________
 ## Biblography:
 1. Blogs:  [Aqeel Anwar](https://towardsdatascience.com/the-w3h-of-alexnet-vggnet-resnet-and-inception-7baaaecccc96)  [Jason Brownlee](https://machinelearningmastery.com/how-to-improve-performance-with-transfer-learning-for-deep-learning-neural-networks/)  
